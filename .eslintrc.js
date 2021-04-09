@@ -21,4 +21,5 @@ module.exports = {
     'func-names': 'off',
     'space-before-function-paren': 'off',
   },
+  
 };
